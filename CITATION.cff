@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite it as below and link to https://familyestateguide.com/estate-planning-data/small-business-succession-by-state/
+type: dataset
+title: 'Small Business Succession by State: Age of Employer-Business Owners (Census ABS)'
+abstract: Share of employer-business owners aged 55-64 and 65+, plus family ownership, prior-business outcomes and firm/payroll context, for 50 states + DC and the U.S., from the Census Bureau Annual Business Survey (data year 2023).
+authors:
+- name: Family Estate Guide
+  website: https://familyestateguide.com
+version: 1.0.0
+date-released: '2026-10-02'
+url: https://familyestateguide.com/estate-planning-data/small-business-succession-by-state/
+repository-code: https://github.com/jameyriley46-ux/familyestateguide-small-business-succession-by-state
+license: CC-BY-4.0
+keywords:
+- small business
+- business succession
+- business owners
+- retirement
+- family business
+- Annual Business Survey
+- state data
+- estate planning
